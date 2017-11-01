@@ -215,6 +215,8 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
+data
+models
 flower_photos
 codes
 labels
