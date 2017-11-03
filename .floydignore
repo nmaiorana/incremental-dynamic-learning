@@ -13,4 +13,5 @@ var
 *.swp
 .DS_Store
 flower_photos
+data
 flower_photos.tar.gz
